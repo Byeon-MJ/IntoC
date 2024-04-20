@@ -1,0 +1,3 @@
+/Users/byeonminjong/CLionProjects/IntoC/cmake-build-debug/CMakeFiles/IntoC.dir
+/Users/byeonminjong/CLionProjects/IntoC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/byeonminjong/CLionProjects/IntoC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
