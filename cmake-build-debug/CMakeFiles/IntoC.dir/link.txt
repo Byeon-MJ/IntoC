@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\IntoC.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\IntoC.dir/objects.a @CMakeFiles\IntoC.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\IntoC.dir/objects.a -Wl,--no-whole-archive -o IntoC.exe -Wl,--out-implib,libIntoC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\IntoC.dir\linkLibs.rsp

@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(IntoC main.c
         practice_6.c
+        ch_6_2.c
 )
