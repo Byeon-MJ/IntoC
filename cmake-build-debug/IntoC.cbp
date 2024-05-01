@@ -79,6 +79,27 @@
 		<Unit filename="C:/Users/MJ/Desktop/Study/IntoC/ch_6_2.c">
 			<Option target="IntoC"/>
 		</Unit>
+		<Unit filename="C:/Users/MJ/Desktop/Study/IntoC/example_1_1.c">
+			<Option target="IntoC"/>
+		</Unit>
+		<Unit filename="C:/Users/MJ/Desktop/Study/IntoC/example_1_2.c">
+			<Option target="IntoC"/>
+		</Unit>
+		<Unit filename="C:/Users/MJ/Desktop/Study/IntoC/example_2_1.c">
+			<Option target="IntoC"/>
+		</Unit>
+		<Unit filename="C:/Users/MJ/Desktop/Study/IntoC/example_2_2.c">
+			<Option target="IntoC"/>
+		</Unit>
+		<Unit filename="C:/Users/MJ/Desktop/Study/IntoC/example_2_3.c">
+			<Option target="IntoC"/>
+		</Unit>
+		<Unit filename="C:/Users/MJ/Desktop/Study/IntoC/example_2_3.h">
+			<Option target="IntoC"/>
+		</Unit>
+		<Unit filename="C:/Users/MJ/Desktop/Study/IntoC/example_3_2.c">
+			<Option target="IntoC"/>
+		</Unit>
 		<Unit filename="C:/Users/MJ/Desktop/Study/IntoC/main.c">
 			<Option target="IntoC"/>
 		</Unit>

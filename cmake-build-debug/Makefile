@@ -152,6 +152,150 @@ ch_6_2.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/ch_6_2.c.s
 .PHONY : ch_6_2.c.s
 
+example_1_1.obj: example_1_1.c.obj
+.PHONY : example_1_1.obj
+
+# target to build an object file
+example_1_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_1_1.c.obj
+.PHONY : example_1_1.c.obj
+
+example_1_1.i: example_1_1.c.i
+.PHONY : example_1_1.i
+
+# target to preprocess a source file
+example_1_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_1_1.c.i
+.PHONY : example_1_1.c.i
+
+example_1_1.s: example_1_1.c.s
+.PHONY : example_1_1.s
+
+# target to generate assembly for a file
+example_1_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_1_1.c.s
+.PHONY : example_1_1.c.s
+
+example_1_2.obj: example_1_2.c.obj
+.PHONY : example_1_2.obj
+
+# target to build an object file
+example_1_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_1_2.c.obj
+.PHONY : example_1_2.c.obj
+
+example_1_2.i: example_1_2.c.i
+.PHONY : example_1_2.i
+
+# target to preprocess a source file
+example_1_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_1_2.c.i
+.PHONY : example_1_2.c.i
+
+example_1_2.s: example_1_2.c.s
+.PHONY : example_1_2.s
+
+# target to generate assembly for a file
+example_1_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_1_2.c.s
+.PHONY : example_1_2.c.s
+
+example_2_1.obj: example_2_1.c.obj
+.PHONY : example_2_1.obj
+
+# target to build an object file
+example_2_1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_2_1.c.obj
+.PHONY : example_2_1.c.obj
+
+example_2_1.i: example_2_1.c.i
+.PHONY : example_2_1.i
+
+# target to preprocess a source file
+example_2_1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_2_1.c.i
+.PHONY : example_2_1.c.i
+
+example_2_1.s: example_2_1.c.s
+.PHONY : example_2_1.s
+
+# target to generate assembly for a file
+example_2_1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_2_1.c.s
+.PHONY : example_2_1.c.s
+
+example_2_2.obj: example_2_2.c.obj
+.PHONY : example_2_2.obj
+
+# target to build an object file
+example_2_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_2_2.c.obj
+.PHONY : example_2_2.c.obj
+
+example_2_2.i: example_2_2.c.i
+.PHONY : example_2_2.i
+
+# target to preprocess a source file
+example_2_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_2_2.c.i
+.PHONY : example_2_2.c.i
+
+example_2_2.s: example_2_2.c.s
+.PHONY : example_2_2.s
+
+# target to generate assembly for a file
+example_2_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_2_2.c.s
+.PHONY : example_2_2.c.s
+
+example_2_3.obj: example_2_3.c.obj
+.PHONY : example_2_3.obj
+
+# target to build an object file
+example_2_3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_2_3.c.obj
+.PHONY : example_2_3.c.obj
+
+example_2_3.i: example_2_3.c.i
+.PHONY : example_2_3.i
+
+# target to preprocess a source file
+example_2_3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_2_3.c.i
+.PHONY : example_2_3.c.i
+
+example_2_3.s: example_2_3.c.s
+.PHONY : example_2_3.s
+
+# target to generate assembly for a file
+example_2_3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_2_3.c.s
+.PHONY : example_2_3.c.s
+
+example_3_2.obj: example_3_2.c.obj
+.PHONY : example_3_2.obj
+
+# target to build an object file
+example_3_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_3_2.c.obj
+.PHONY : example_3_2.c.obj
+
+example_3_2.i: example_3_2.c.i
+.PHONY : example_3_2.i
+
+# target to preprocess a source file
+example_3_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_3_2.c.i
+.PHONY : example_3_2.c.i
+
+example_3_2.s: example_3_2.c.s
+.PHONY : example_3_2.s
+
+# target to generate assembly for a file
+example_3_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\IntoC.dir\build.make CMakeFiles/IntoC.dir/example_3_2.c.s
+.PHONY : example_3_2.c.s
+
 main.obj: main.c.obj
 .PHONY : main.obj
 
@@ -212,6 +356,24 @@ help:
 	@echo ... ch_6_2.obj
 	@echo ... ch_6_2.i
 	@echo ... ch_6_2.s
+	@echo ... example_1_1.obj
+	@echo ... example_1_1.i
+	@echo ... example_1_1.s
+	@echo ... example_1_2.obj
+	@echo ... example_1_2.i
+	@echo ... example_1_2.s
+	@echo ... example_2_1.obj
+	@echo ... example_2_1.i
+	@echo ... example_2_1.s
+	@echo ... example_2_2.obj
+	@echo ... example_2_2.i
+	@echo ... example_2_2.s
+	@echo ... example_2_3.obj
+	@echo ... example_2_3.i
+	@echo ... example_2_3.s
+	@echo ... example_3_2.obj
+	@echo ... example_3_2.i
+	@echo ... example_3_2.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

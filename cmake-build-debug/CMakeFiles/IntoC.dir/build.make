@@ -110,11 +110,101 @@ CMakeFiles/IntoC.dir/ch_6_2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/IntoC.dir/ch_6_2.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\MJ\Desktop\Study\IntoC\ch_6_2.c -o CMakeFiles\IntoC.dir\ch_6_2.c.s
 
+CMakeFiles/IntoC.dir/example_1_1.c.obj: CMakeFiles/IntoC.dir/flags.make
+CMakeFiles/IntoC.dir/example_1_1.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_1_1.c
+CMakeFiles/IntoC.dir/example_1_1.c.obj: CMakeFiles/IntoC.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\MJ\Desktop\Study\IntoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/IntoC.dir/example_1_1.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/IntoC.dir/example_1_1.c.obj -MF CMakeFiles\IntoC.dir\example_1_1.c.obj.d -o CMakeFiles\IntoC.dir\example_1_1.c.obj -c C:\Users\MJ\Desktop\Study\IntoC\example_1_1.c
+
+CMakeFiles/IntoC.dir/example_1_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/IntoC.dir/example_1_1.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\MJ\Desktop\Study\IntoC\example_1_1.c > CMakeFiles\IntoC.dir\example_1_1.c.i
+
+CMakeFiles/IntoC.dir/example_1_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/IntoC.dir/example_1_1.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\MJ\Desktop\Study\IntoC\example_1_1.c -o CMakeFiles\IntoC.dir\example_1_1.c.s
+
+CMakeFiles/IntoC.dir/example_1_2.c.obj: CMakeFiles/IntoC.dir/flags.make
+CMakeFiles/IntoC.dir/example_1_2.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_1_2.c
+CMakeFiles/IntoC.dir/example_1_2.c.obj: CMakeFiles/IntoC.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\MJ\Desktop\Study\IntoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/IntoC.dir/example_1_2.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/IntoC.dir/example_1_2.c.obj -MF CMakeFiles\IntoC.dir\example_1_2.c.obj.d -o CMakeFiles\IntoC.dir\example_1_2.c.obj -c C:\Users\MJ\Desktop\Study\IntoC\example_1_2.c
+
+CMakeFiles/IntoC.dir/example_1_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/IntoC.dir/example_1_2.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\MJ\Desktop\Study\IntoC\example_1_2.c > CMakeFiles\IntoC.dir\example_1_2.c.i
+
+CMakeFiles/IntoC.dir/example_1_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/IntoC.dir/example_1_2.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\MJ\Desktop\Study\IntoC\example_1_2.c -o CMakeFiles\IntoC.dir\example_1_2.c.s
+
+CMakeFiles/IntoC.dir/example_3_2.c.obj: CMakeFiles/IntoC.dir/flags.make
+CMakeFiles/IntoC.dir/example_3_2.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_3_2.c
+CMakeFiles/IntoC.dir/example_3_2.c.obj: CMakeFiles/IntoC.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\MJ\Desktop\Study\IntoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/IntoC.dir/example_3_2.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/IntoC.dir/example_3_2.c.obj -MF CMakeFiles\IntoC.dir\example_3_2.c.obj.d -o CMakeFiles\IntoC.dir\example_3_2.c.obj -c C:\Users\MJ\Desktop\Study\IntoC\example_3_2.c
+
+CMakeFiles/IntoC.dir/example_3_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/IntoC.dir/example_3_2.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\MJ\Desktop\Study\IntoC\example_3_2.c > CMakeFiles\IntoC.dir\example_3_2.c.i
+
+CMakeFiles/IntoC.dir/example_3_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/IntoC.dir/example_3_2.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\MJ\Desktop\Study\IntoC\example_3_2.c -o CMakeFiles\IntoC.dir\example_3_2.c.s
+
+CMakeFiles/IntoC.dir/example_2_1.c.obj: CMakeFiles/IntoC.dir/flags.make
+CMakeFiles/IntoC.dir/example_2_1.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_2_1.c
+CMakeFiles/IntoC.dir/example_2_1.c.obj: CMakeFiles/IntoC.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\MJ\Desktop\Study\IntoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/IntoC.dir/example_2_1.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/IntoC.dir/example_2_1.c.obj -MF CMakeFiles\IntoC.dir\example_2_1.c.obj.d -o CMakeFiles\IntoC.dir\example_2_1.c.obj -c C:\Users\MJ\Desktop\Study\IntoC\example_2_1.c
+
+CMakeFiles/IntoC.dir/example_2_1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/IntoC.dir/example_2_1.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\MJ\Desktop\Study\IntoC\example_2_1.c > CMakeFiles\IntoC.dir\example_2_1.c.i
+
+CMakeFiles/IntoC.dir/example_2_1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/IntoC.dir/example_2_1.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\MJ\Desktop\Study\IntoC\example_2_1.c -o CMakeFiles\IntoC.dir\example_2_1.c.s
+
+CMakeFiles/IntoC.dir/example_2_2.c.obj: CMakeFiles/IntoC.dir/flags.make
+CMakeFiles/IntoC.dir/example_2_2.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_2_2.c
+CMakeFiles/IntoC.dir/example_2_2.c.obj: CMakeFiles/IntoC.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\MJ\Desktop\Study\IntoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/IntoC.dir/example_2_2.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/IntoC.dir/example_2_2.c.obj -MF CMakeFiles\IntoC.dir\example_2_2.c.obj.d -o CMakeFiles\IntoC.dir\example_2_2.c.obj -c C:\Users\MJ\Desktop\Study\IntoC\example_2_2.c
+
+CMakeFiles/IntoC.dir/example_2_2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/IntoC.dir/example_2_2.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\MJ\Desktop\Study\IntoC\example_2_2.c > CMakeFiles\IntoC.dir\example_2_2.c.i
+
+CMakeFiles/IntoC.dir/example_2_2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/IntoC.dir/example_2_2.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\MJ\Desktop\Study\IntoC\example_2_2.c -o CMakeFiles\IntoC.dir\example_2_2.c.s
+
+CMakeFiles/IntoC.dir/example_2_3.c.obj: CMakeFiles/IntoC.dir/flags.make
+CMakeFiles/IntoC.dir/example_2_3.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_2_3.c
+CMakeFiles/IntoC.dir/example_2_3.c.obj: CMakeFiles/IntoC.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\MJ\Desktop\Study\IntoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/IntoC.dir/example_2_3.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/IntoC.dir/example_2_3.c.obj -MF CMakeFiles\IntoC.dir\example_2_3.c.obj.d -o CMakeFiles\IntoC.dir\example_2_3.c.obj -c C:\Users\MJ\Desktop\Study\IntoC\example_2_3.c
+
+CMakeFiles/IntoC.dir/example_2_3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/IntoC.dir/example_2_3.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\MJ\Desktop\Study\IntoC\example_2_3.c > CMakeFiles\IntoC.dir\example_2_3.c.i
+
+CMakeFiles/IntoC.dir/example_2_3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/IntoC.dir/example_2_3.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\MJ\Desktop\Study\IntoC\example_2_3.c -o CMakeFiles\IntoC.dir\example_2_3.c.s
+
 # Object files for target IntoC
 IntoC_OBJECTS = \
 "CMakeFiles/IntoC.dir/main.c.obj" \
 "CMakeFiles/IntoC.dir/practice_6.c.obj" \
-"CMakeFiles/IntoC.dir/ch_6_2.c.obj"
+"CMakeFiles/IntoC.dir/ch_6_2.c.obj" \
+"CMakeFiles/IntoC.dir/example_1_1.c.obj" \
+"CMakeFiles/IntoC.dir/example_1_2.c.obj" \
+"CMakeFiles/IntoC.dir/example_3_2.c.obj" \
+"CMakeFiles/IntoC.dir/example_2_1.c.obj" \
+"CMakeFiles/IntoC.dir/example_2_2.c.obj" \
+"CMakeFiles/IntoC.dir/example_2_3.c.obj"
 
 # External object files for target IntoC
 IntoC_EXTERNAL_OBJECTS =
@@ -122,11 +212,17 @@ IntoC_EXTERNAL_OBJECTS =
 IntoC.exe: CMakeFiles/IntoC.dir/main.c.obj
 IntoC.exe: CMakeFiles/IntoC.dir/practice_6.c.obj
 IntoC.exe: CMakeFiles/IntoC.dir/ch_6_2.c.obj
+IntoC.exe: CMakeFiles/IntoC.dir/example_1_1.c.obj
+IntoC.exe: CMakeFiles/IntoC.dir/example_1_2.c.obj
+IntoC.exe: CMakeFiles/IntoC.dir/example_3_2.c.obj
+IntoC.exe: CMakeFiles/IntoC.dir/example_2_1.c.obj
+IntoC.exe: CMakeFiles/IntoC.dir/example_2_2.c.obj
+IntoC.exe: CMakeFiles/IntoC.dir/example_2_3.c.obj
 IntoC.exe: CMakeFiles/IntoC.dir/build.make
 IntoC.exe: CMakeFiles/IntoC.dir/linkLibs.rsp
 IntoC.exe: CMakeFiles/IntoC.dir/objects1.rsp
 IntoC.exe: CMakeFiles/IntoC.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\MJ\Desktop\Study\IntoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable IntoC.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\MJ\Desktop\Study\IntoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable IntoC.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\IntoC.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
