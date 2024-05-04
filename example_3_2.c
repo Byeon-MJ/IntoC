@@ -34,4 +34,4 @@
 //     printf("\n 오십 원짜리 ==> %d 개 \n", coin_50);
 //     printf("\n 십 원짜리 ==> %d 개 \n", coin_10);
 //     printf("\n 바꾸지 못한 잔돈 ==> %d 원 \n", in_money);
-// }
+// }    // main 함수의 끝

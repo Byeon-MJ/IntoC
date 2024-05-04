@@ -16,7 +16,9 @@ CMakeFiles/IntoC.dir/ch_6_2.c.obj: C:/Users/MJ/Desktop/Study/IntoC/ch_6_2.c \
 
 CMakeFiles/IntoC.dir/example_1_1.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_1_1.c
 
-CMakeFiles/IntoC.dir/example_1_2.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_1_2.c \
+CMakeFiles/IntoC.dir/example_1_2.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_1_2.c
+
+CMakeFiles/IntoC.dir/example_2_1.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_2_1.c \
   C:/Program\ Files/JetBrains/CLion\ 2024.1/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
   C:/Program\ Files/JetBrains/CLion\ 2024.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
   C:/Program\ Files/JetBrains/CLion\ 2024.1/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
@@ -28,8 +30,6 @@ CMakeFiles/IntoC.dir/example_1_2.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_
   C:/Program\ Files/JetBrains/CLion\ 2024.1/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
   C:/Program\ Files/JetBrains/CLion\ 2024.1/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
   C:/Program\ Files/JetBrains/CLion\ 2024.1/bin/mingw/x86_64-w64-mingw32/include/vadefs.h
-
-CMakeFiles/IntoC.dir/example_2_1.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_2_1.c
 
 CMakeFiles/IntoC.dir/example_2_2.c.obj: C:/Users/MJ/Desktop/Study/IntoC/example_2_2.c
 
