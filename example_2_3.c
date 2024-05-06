@@ -7,8 +7,8 @@
  * void는 함수의 실행 결과 반환되는 결과가 없다는 의미
  */
 void main()
-{
-   int add_result, sub_result;
-   printf("10과 5를 더하면 %d이다. \n", ADD(10, 5));
-   printf("10과 5를 뺴면 %d이다. \n", SUB(10, 5));
+{   // main 함수의 시작
+   int add_result, sub_result;  // 정수형 변수 add_result, sub_result 선언
+   printf("10과 5를 더하면 %d이다. \n", ADD(10, 5));   // ADD 매크로 함수 호출, printf 함수로 결과를 출력
+   printf("10과 5를 뺴면 %d이다. \n", SUB(10, 5));    // SUB 매크로 함수 호출, printf 함수로 결과를 출력
 }    // main 함수의 끝
